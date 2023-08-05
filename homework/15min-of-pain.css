@@ -1,0 +1,66 @@
+html{
+    height:50px;
+}
+*{
+    box-sizing: border-box;
+}
+
+/* .small {
+    display:flex;
+} */
+header, footer {
+    height: 100px;
+    border: 2px double rgb(0, 255, 136);
+    clear:both;
+}
+/* @media all and (min-width: 420px){
+    .container {
+        max-width: 100%;
+    }
+    section{
+        flex:1;
+        height: 300px;
+        border: 2px solid rgb(112, 81, 112);
+}
+} */
+
+@media all and (max-width:600px){
+    header, footer{
+        height: 2rem;;
+    }
+    section {
+    float: none;
+    width: 100%;
+    height: 100px;
+    border: 2px solid red;
+    background: rgb(8, 173, 151);
+    }
+}
+@media (min-width:601px) and (max-width:900px){
+    header, footer{
+        height: 4rem;;
+    }
+    section {
+    align-items: center;
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    border: 2px solid red;
+    background: gold;
+    }
+    .bot{
+     width: 100%;
+    }
+}
+@media (min-width:901px){
+    
+    section {
+    float: left;
+    width: 33.3333%;
+    height: 300px;
+    border: 2px solid red;
+    }
+    .bot{
+     width: 100%;
+    }
+}

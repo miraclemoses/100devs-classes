@@ -1,0 +1,38 @@
+/* layout2 */
+.container{
+margin: 30px 15px 5px 12px;
+}
+header, footer{
+    height: 100px;
+    border: 2px solid black;
+    clear: both;
+}
+/* section{
+    border:2px solid black;
+    width:40%;
+    height: 200px;
+    float: left;
+}
+.end{
+    width:60%
+}
+.sec{
+    border:2px solid black;
+    width:100%;
+}  */
+/* for flex-box layout */
+.bot, .sec{
+    display: flex;
+}
+section{
+    height: 200px;
+    width: 100%;
+    border: 2px solid black;
+    
+}
+.mid{
+    flex: 1 1.5 auto;
+}
+.end{
+    flex: 2 1 auto;
+} 
