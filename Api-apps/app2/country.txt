@@ -1,0 +1,193 @@
+Afghanistan                                         Afghanistan                 
+albania                        albania
+algeria                        algeria
+andorra                        andorra
+angola                        angola
+antigua and barbuda                        antigua and barbuda
+argentina                        argentina
+armenia                        armenia
+austria                        austria
+azerbaijan                        azerbaijan
+bahrain                        bahrain
+bangladesh                        bangladesh
+barbados                        barbados
+belarus                        belarus
+belgium                        belgium
+belize                        belize
+benin                        benin
+bhutan                        bhutan
+bolivia                        bolivia
+bosnia and herzegovina                        bosnia and herzegovina
+botswana                        botswana
+brazil                        brazil
+brunei                        brunei
+bulgaria                        bulgaria
+burkina faso                        burkina faso
+burundi                        burundi
+cabo verde                        cabo verde
+cambodia                        cambodia
+cameroon                        cameroon
+canada                        canada
+central african republic                        central african republic
+chad                        chad
+channel islands                        channel islands
+chile                        chile
+china                        china
+colombia                        colombia
+comoros                        comoros
+congo                        congo
+costa rica                        costa rica
+côte d'ivoire                        côte d'ivoire
+croatia                        croatia
+cuba                        cuba
+cyprus                        cyprus
+czech republic                        czech republic
+denmark                        denmark
+djibouti                        djibouti
+dominica                        dominica
+dominican republic                        dominican republic
+dr congo                        dr congo
+ecuador                        ecuador
+egypt                        egypt
+el salvador                        el salvador
+equatorial guinea                        equatorial guinea
+eritrea                        eritrea
+estonia                        estonia
+eswatini                        eswatini
+ethiopia                        ethiopia
+faeroe islands                        faeroe islands
+finland                        finland
+france                        france
+french guiana                        french guiana
+gabon                        gabon
+gambia                        gambia
+georgia                        georgia
+germany                        germany
+ghana                        ghana
+gibraltar                        gibraltar
+greece                        greece
+grenada                        grenada
+guatemala                        guatemala
+guinea                        guinea
+guinea-bissau                        guinea-bissau
+guyana                        guyana
+haiti                        haiti
+holy see                        holy see
+honduras                        honduras
+hong kong                        hong kong
+hungary                        hungary
+iceland                        iceland
+india                        india
+indonesia                        indonesia
+iran                        iran
+iraq                        iraq
+ireland                        ireland
+isle of man                        isle of man
+israel                        israel
+italy                        italy
+jamaica                        jamaica
+japan                        japan
+jordan                        jordan
+kazakhstan                        kazakhstan
+kenya                        kenya
+kuwait                        kuwait
+kyrgyzstan                        kyrgyzstan
+laos                        laos
+latvia                        latvia
+lebanon                        lebanon
+lesotho                        lesotho
+liberia                        liberia
+libya                        libya
+liechtenstein                        liechtenstein
+lithuania                        lithuania
+luxembourg                        luxembourg
+macao                        macao
+madagascar                        madagascar
+malawi                        malawi
+malaysia                        malaysia
+maldives                        maldives
+mali                        mali
+malta                        malta
+mauritania                        mauritania
+mauritius                        mauritius
+mayotte                        mayotte
+mexico                        mexico
+moldova                        moldova
+monaco                        monaco
+mongolia                        mongolia
+montenegro                        montenegro
+morocco                        morocco
+mozambique                        mozambique
+myanmar                        myanmar
+namibia                        namibia
+nepal                        nepal
+netherlands                        netherlands
+nicaragua                        nicaragua
+niger                        niger
+nigeria                        nigeria
+north korea                        north korea
+north macedonia                        north macedonia
+norway                        norway
+oman                        oman
+pakistan                        pakistan
+panama                        panama
+paraguay                        paraguay
+peru                        peru
+philippines                        philippines
+poland                        poland
+portugal                        portugal
+qatar                        qatar
+réunion                        réunion
+romania                        romania
+russia                        russia
+rwanda                        rwanda
+saint helena                        saint helena
+saint kitts and nevis                        saint kitts and nevis
+saint lucia                        saint lucia
+saint vincent and the grenad                        saint vincent and the grenadinesines
+san marino                        san marino
+sao tome & principe                        sao tome & principe
+saudi arabia                        saudi arabia
+senegal                        senegal
+serbia                        serbia
+seychelles                        seychelles
+sierra leone                        sierra leone
+singapore                        singapore
+slovakia                        slovakia
+slovenia                        slovenia
+somalia                        somalia
+south africa                        south africa
+south korea                        south korea
+south sudan                        south sudan
+spain                        spain
+sri lanka                        sri lanka
+state of palestine                        state of palestine
+sudan                        sudan
+suriname                        suriname
+sweden                        sweden
+switzerland                        switzerland
+syria                        syria
+taiwan                        taiwan
+tajikistan                        tajikistan
+tanzania                        tanzania
+thailand                        thailand
+the bahamas                        the bahamas
+timor-leste                        timor-leste
+togo                        togo
+trinidad and tobago                        trinidad and tobago
+tunisia                        tunisia
+turkey                        turkey
+turkmenistan                        turkmenistan
+uganda                        uganda
+ukraine                        ukraine
+united arab emirates                        united arab emirates
+united kingdom                        united kingdom
+united states                        united states
+uruguay                        uruguay
+uzbekistan                        uzbekistan
+venezuela                        venezuela
+vietnam                        vietnam
+western sahara                        western sahara
+yemen                        yemen
+zambia                        zambia
+                        
